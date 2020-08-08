@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596853330926.000,
+    "dirty" : false,
+    "encoding" : "GB2312",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "371FC632",
+    "lastKnownWriteTime" : 1596856998,
+    "last_content_update" : 1596856998424,
+    "path" : "~/Dropbox/SVD/code/mirtsvd/R/screeplot_svd.R",
+    "project_path" : "R/screeplot_svd.R",
+    "properties" : {
+        "cursorPosition" : "24,26",
+        "scrollLine" : "22",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

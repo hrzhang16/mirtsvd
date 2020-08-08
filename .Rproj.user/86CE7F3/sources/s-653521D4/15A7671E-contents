@@ -1,0 +1,22 @@
+Package: mypackage
+Title: SVD-based Estimattion for Exploratory Item Factor Analysis
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given = "Haoran",
+           family = "Zhang",
+           role = c("aut", "cre"),
+           email = "hrzhang16@fudan.edu.cn"),
+    person("Yunxiao", "Chen", role = "aut"),
+    person("Xiaoou", "Li", role = "aut")
+    )
+Description: Provides singular value decomposition based estimation
+    algorithms for exploratoty item factor analysis (IFA) based on multidimensional item response theory
+    models.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Imports: 
+    GPArotation

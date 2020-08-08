@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596853911755.000,
+    "dirty" : false,
+    "encoding" : "GB2312",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "28755041",
+    "lastKnownWriteTime" : 1596857011,
+    "last_content_update" : 1596857011719,
+    "path" : "~/Dropbox/SVD/code/mirtsvd/man/mirtsvd.Rd",
+    "project_path" : "man/mirtsvd.Rd",
+    "properties" : {
+        "cursorPosition" : "51,0",
+        "scrollLine" : "38"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

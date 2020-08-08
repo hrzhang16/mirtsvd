@@ -1,0 +1,26 @@
+Package: mirtsvd
+Title: SVD-based Estimation for Exploratory Item Factor Analysis
+Version: 1.0
+Authors@R: c(
+    person(given = "Haoran",
+           family = "Zhang",
+           role = c("aut", "cre"), 
+           email = "hrzhang16@gmail.com"),
+    person("Yunxiao", "Chen", role = "aut"),
+    person("Xiaoou", "Li", role = "aut")
+    )
+Description: Provides singular value decomposition based estimation
+    algorithms for exploratoty item factor analysis (IFA) based on multidimensional item response theory
+    models. For more information, please refer to:
+    Zhang, H., Chen, Y. & Li, X. A Note on Exploratory Item Factor Analysis by Singular Value Decomposition.
+Psychometrika 85, 358-372 (2020). \url{https://doi.org/10.1007/s11336-020-09704-7}
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Depends:
+    R (>= 3.1)
+Imports: 
+    GPArotation,
+    mirtjml
