@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "GB2312",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "487944506",
     "id" : "358543A5",
-    "lastKnownWriteTime" : 1596878341,
-    "last_content_update" : 1596878341974,
+    "lastKnownWriteTime" : 1596881168,
+    "last_content_update" : 1596881168135,
     "path" : "~/Dropbox/SVD/code/mirtsvd/DESCRIPTION",
     "project_path" : "DESCRIPTION",
     "properties" : {
-        "cursorPosition" : "1,23",
-        "scrollLine" : "0"
+        "cursorPosition" : "26,17",
+        "scrollLine" : "8"
     },
     "relative_order" : 1,
     "source_on_save" : false,
