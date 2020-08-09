@@ -13,8 +13,7 @@ Author: Haoran Zhang [aut, cre], Yunxiao Chen [aut], Xiaoou Li [aut]
 Maintainer: Haoran Zhang <hrzhang16@gmail.com>
 Description: Provides singular value decomposition based estimation algorithms for exploratoty item factor analysis (IFA) 
     based on multidimensional item response theory models. For more information, please refer to:
-    Zhang, H., Chen, Y. & Li, X. A Note on Exploratory Item Factor Analysis by Singular Value Decomposition.
-    Psychometrika 85, 358-372 (2020). <doi:10.1007/s11336-020-09704-7>
+    Zhang, H., Chen, Y., & Li, X. (2020). A note on exploratory item factor analysis by singular value decomposition. Psychometrika, 1-15.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

@@ -47,6 +47,6 @@ res <- mirtsvd(data, K, rotation_fn = Varimax)
 
 }
 \references{
-Zhang, H., Chen, Y. & Li, X. A Note on Exploratory Item Factor Analysis by Singular Value Decomposition.
-Psychometrika 85, 358-372 (2020). \url{https://doi.org/10.1007/s11336-020-09704-7}
+Zhang, H., Chen, Y., & Li, X. (2020). A note on exploratory item factor
+analysis by singular value decomposition. Psychometrika, 1-15.
 }
