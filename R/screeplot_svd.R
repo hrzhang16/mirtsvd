@@ -6,7 +6,7 @@
 #' Missing entries should be \code{NA}.
 #' @param link the link fucntion. Possible choices are "logit" and "probit".
 #' @param epsilon the truncation parameter. Default value is 1e-4.
-#' @param K_max The maximum number of factors contained in data. Default values is 10.
+#' @param K_max The maximum number of factors contained in data. Default value is 10.
 #'
 #' @export
 #'

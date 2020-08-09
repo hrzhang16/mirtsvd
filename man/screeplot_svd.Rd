@@ -14,7 +14,7 @@ Missing entries should be \code{NA}.}
 
 \item{epsilon}{the truncation parameter. Default value is 1e-4.}
 
-\item{K_max}{The maximum number of factors contained in data. Default values is 10.}
+\item{K_max}{The maximum number of factors contained in data. Default value is 10.}
 }
 \description{
 Scree plot for singular values.
